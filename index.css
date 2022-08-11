@@ -26,8 +26,6 @@ header{
 }
 .container-selfinfo{
     display: flex;
-}
-.container-selfinfo p{
     margin-left: 20px;
 }
 .img-self{
@@ -36,4 +34,8 @@ header{
 }
 .highlight{
     font-weight: 700;
+}
+.hover:hover{
+    color:brown;
+    font-color: brown;
 }
