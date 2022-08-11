@@ -1,4 +1,10 @@
+.container-selfinfo{
+    display: flex;
+}
+.container-selfinfo p{
+    margin-left: 20px;
+}
 .img-self{
-    width: 200px;
-    height: 100px;
+    width: 300px;
+    height: 200px;
 }
