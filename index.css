@@ -6,21 +6,23 @@ header{
     padding: 10px;
     text-align: center;
 }
-h1{
+.main-title{
     font-size: 2rem;
     font: 'Fredoka', Arial, Helvetica, sans-serif;
+    font-weight: 500;
     color: #071330;
 }
 .title{
     font-size: 1.6rem;
-    font: 'Fredoka', Arial, Helvetica, sans-serif;
+    font-weight: 500;
     color: #071330;
     margin: 10px;
 }
-p{
-    font: 'Fredoka', Arial, Helvetica, sans-serif;
+.com-text{
     color: #071330;
-    font-size: 1.2rem;;
+    font-weight: 300;
+    font-size: 1.2rem;
+    margin-left: 40px;
 }
 .container-selfinfo{
     display: flex;
@@ -31,4 +33,7 @@ p{
 .img-self{
     width: 200px;
     height: 200px;
+}
+.highlight{
+    font-weight: 700;
 }
