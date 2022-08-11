@@ -1,3 +1,27 @@
+body {
+    background-color: #738fa7;
+  }
+header{
+    background-color: bisque;
+    padding: 10px;
+    text-align: center;
+}
+h1{
+    font-size: 2rem;
+    font: 'Fredoka', Arial, Helvetica, sans-serif;
+    color: #071330;
+}
+.title{
+    font-size: 1.6rem;
+    font: 'Fredoka', Arial, Helvetica, sans-serif;
+    color: #071330;
+    margin: 10px;
+}
+p{
+    font: 'Fredoka', Arial, Helvetica, sans-serif;
+    color: #071330;
+    font-size: 1.2rem;;
+}
 .container-selfinfo{
     display: flex;
 }
@@ -5,6 +29,6 @@
     margin-left: 20px;
 }
 .img-self{
-    width: 300px;
+    width: 200px;
     height: 200px;
 }
